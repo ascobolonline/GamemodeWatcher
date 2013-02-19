@@ -1,0 +1,4 @@
+GamemodeWatcher
+===============
+
+Bukkit Plugin GamemodeWatcher
